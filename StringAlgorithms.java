@@ -5,8 +5,11 @@ public class StringAlgorithms {
      * Write a method that takes a String 'word' and returns
      * a String where each character is placed on its own line.
      */
+      
+     
     public static String printCharacters(String word) {
         // TODO: Implement this method
+        System.out.print(word);
         return "";
     }
 
